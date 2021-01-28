@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!-- Picture links -->
+
 ![Lang](https://img.shields.io/badge/Lang-Dart-informational?style=flat-square&logo=<Lang>&logoColor=white&color=red)
 ![OS](https://img.shields.io/badge/OS-Win-informational?style=flat-square&logo=<OW>&logoColor=white&color=red)
 
