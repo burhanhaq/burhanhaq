@@ -11,24 +11,24 @@ Welcome to the party :)
  <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
  <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
  <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
- <img align="left" alt="Dart" height="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+ <img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
  <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
 <br>
 
 ### < Mobile >
- <img align="left" alt="Flutter" height="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+ <img align="left" alt="Flutter" width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 
 <br>
 
 ### < Game Dev >
- <img align="left" alt="Unity" height="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+ <img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 
 <br>
 
 ### < AI >
  <img align="left" alt="Keras" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
- <img align="left" alt="TensorFlow" height="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+ <img align="left" alt="TensorFlow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 
 <br>
 
