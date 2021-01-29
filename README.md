@@ -1,9 +1,8 @@
 [![Header](https://brhn.dev/images/HeaderImageShort.jpg)][site]
 
-### Hey there &#127808;
+## Hey there &#127808;
 Welcome to the party :)
 
- 
 <br>
 
 ### Currently working on
@@ -11,7 +10,7 @@ Welcome to the party :)
 
 ## Qualities
 
-### Languages
+### < Languages >
  <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />
  <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
  <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
@@ -20,23 +19,23 @@ Welcome to the party :)
  
 <br>
 
-### Mobile
+### < Mobile >
  <img align="left" alt="Java" height="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 
 <br>
 
-### Game Dev
+### < Game Dev >
  <img align="left" alt="Java" height="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 
 <br>
 
-### AI
+### < AI >
  <img align="left" alt="Java" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" />
  <img align="left" alt="Java" height="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 
 <br>
 
-### DevOps
+### < DevOps >
  <img align="left" alt="Java" height="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />
  <img align="left" alt="Java" height="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />
  <img align="left" alt="Java" height="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
@@ -45,8 +44,10 @@ Welcome to the party :)
 <br>
 
 ### Hobbies
- - Tennis
- - Cricket
+ &#x1f3be; Tennis
+ &#x1f3cf; Cricket
+ &#x1f3ca; Swimming
+	&#x1f3c3; Running
 <br>
 
 ## Let's Connect!
