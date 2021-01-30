@@ -40,7 +40,7 @@ Welcome to the party :)
 
 <br>
 
-## What I Like
+## What you can catch me doing in my free time
  :tennis: Tennis
  :cricket_game: Cricket
  :swimming_man: Swimming
@@ -48,12 +48,14 @@ Welcome to the party :)
  
 <br>
 
-## Where I Live
+## Where I hangout
  <a href = "https://www.linkedin.com/in/burhanhaq/"><img align="left" alt="LinkedIn" height="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> </a>
  <a href = "https://play.google.com/store/apps/developer?id=brhn.dev"><img align="left" alt="LinkedIn" height="26px" src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" /> </a>
 
 <br>
 <br>
+
+## 
 
 [![Burhan's github stats](https://github-readme-stats.vercel.app/api?username=burhanhaq&hide=contribs,issues&count_private=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burhanhaq&layout=compact&theme=calm&hide=Objective-C,Swift,ShaderLab,HLSL)
 
