@@ -1,4 +1,4 @@
-[![Header](https://brhn.dev/images/HeaderImageShort.jpg)][site]
+[![Header](https://brhn.dev/site_images/HeaderImageShort.jpg)][site]
 
 ## Hey there &#127808;
 Welcome to the party :)
